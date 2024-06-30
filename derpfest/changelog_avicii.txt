@@ -1,0 +1,6 @@
+Date - 04/07/2024
+=================
+• June Security patch (QPR3)
+• Optimise device power profile
+• Adjust status bar paddings
+• Added Basic Call Recorder
