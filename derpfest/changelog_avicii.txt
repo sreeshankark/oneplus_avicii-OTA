@@ -1,3 +1,12 @@
+Date - 06/07/2024
+=================
+• July Security Patch
+• Include OnePlus Camera
+• Include OnePlus Gallery
+• Fixed "Charging slowly" on LS
+• Fixed status bar alignment 
+• Implement OTA support
+
 Date - 04/07/2024
 =================
 • June Security patch (QPR3)
