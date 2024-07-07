@@ -1,3 +1,8 @@
+Date - 07/07/2024
+=================
+• Update vendor blobs from AC2003_11_F.23
+• Fixed OnePlus Camera crash when switching image ratio
+
 Date - 06/07/2024
 =================
 • July Security Patch
